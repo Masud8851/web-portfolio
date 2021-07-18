@@ -3,7 +3,7 @@ body{
     margin: 0%;
 }
 
-.section1{
+.intro{
     display: flex;
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
@@ -36,6 +36,8 @@ h1{
     width: 80%;
 }
 
+/* Dream */
+
 .dream-big{
     background-image: url("images/dream-bg.png");
     background-position: right;
@@ -48,6 +50,8 @@ h2{
     font-size: 40px;
 }
 
+
+/* Experiences */
 .experinces{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
@@ -84,6 +88,10 @@ h2{
     border-image-slice: 1;
 }
 
+
+/* Footer */
 .footer p{
     text-align: center;
 }
+
+/* Media Query */
